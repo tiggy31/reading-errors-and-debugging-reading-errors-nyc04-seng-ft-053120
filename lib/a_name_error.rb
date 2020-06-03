@@ -1,3 +1,3 @@
-"hello world"
+new = "hello world"
 
 hello_world
